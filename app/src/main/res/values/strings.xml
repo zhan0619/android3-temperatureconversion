@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">homework3</string>
+    <string name="charF">"\u2109"</string>
+    <string name="charC">"\u2103"</string>
+</resources>
